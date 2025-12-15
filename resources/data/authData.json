@@ -1,0 +1,10 @@
+{
+    "login": {
+        "title": "Welcome Back",
+        "description": "Please sign in to your account"
+    },
+    "register": {
+        "title": "Create Account",
+        "description": "Join our community today"
+    }
+}

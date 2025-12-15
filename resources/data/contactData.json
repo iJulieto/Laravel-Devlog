@@ -1,0 +1,33 @@
+{
+    "title": "Contact Us",
+    "form_title": "Contact Us",
+    "name_label": "Name",
+    "name_placeholder": "Your Name",
+    "email_label": "Email",
+    "email_placeholder": "you@example.com",
+    "message_label": "Message",
+    "message_placeholder": "Your message...",
+    "submit_button": "Send Message",
+    "contact_info_title": "Contact Information",
+    "contact_address_label": "Address",
+    "contact_address": "Pinamalayan, Oriental Mindoro, Philippines",
+    "contact_email_label": "Email",
+    "contact_email": "devlog@gmail.com",
+    "contact_phone_label": "Phone",
+    "contact_phone": "(+63)949-308-9229",
+    "follow_us_title": "Follow Us",
+    "social_links": [
+        {
+            "name": "Twitter",
+            "url": "#"
+        },
+        {
+            "name": "GitHub",
+            "url": "#"
+        },
+        {
+            "name": "LinkedIn",
+            "url": "#"
+        }
+    ]
+}

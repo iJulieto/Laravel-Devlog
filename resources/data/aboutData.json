@@ -1,0 +1,13 @@
+{
+    "title": "About Us",
+    "images": [
+        "/src/images/Team.png",
+        "/src/images/TeamFocus.png",
+        "/src/images/TeamBrainstorm.png",
+        "/src/images/TeamBond.png"
+    ],
+    "content": [
+        "Devlog is a platform built for developers to document their coding journey, share technical insights, and build their professional portfolio. It serves as a central hub for tracking progress and showcasing projects.",
+        "Our mission is to create a collaborative environment where knowledge is shared freely. Join a community of passionate developers and start logging your development adventures today."
+    ]
+}
